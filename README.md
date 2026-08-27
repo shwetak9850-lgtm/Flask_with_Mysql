@@ -206,7 +206,7 @@ Data is stored in database
         ↓
 Registration response displayed
 
-![Home Page](screenshot/62679e96-2091-4421-a90c-8a8880ef7989.jpeg)
+![Home Page](62679e96-2091-4421-a90c-8a8880ef7989.jpeg)
 
 ## 🔒 Security
 
